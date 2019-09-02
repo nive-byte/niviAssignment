@@ -1,8 +1,7 @@
 AWSTemplateFormatVersion: '2010-09-09'
 Metadata: 
   License: Apache-2.0
-Description: 'AWS CloudFormation Sample Template WordPress_Single_Instance: WordPress
-  is web software you can use to create a beautiful website or blog. This template
+Description: 'AWS CloudFormation Template WordPress_Single_Instance: This template
   installs WordPress with a local MySQL database for storage. It demonstrates using
   the AWS CloudFormation bootstrap scripts to deploy WordPress.'
 Parameters:
